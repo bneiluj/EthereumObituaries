@@ -61,4 +61,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Aug 18 - [Accumulate this: ”ethereum is dead”.](https://twitter.com/AskHenrik/status/1030688496535719936) - `Henrik Ask` - *Twitter* - **$310.61**
 - Aug 24 - [Ethereum is a dead coin walking.](https://twitter.com/AnselLindner/status/1033120662121054213) - `Ansel Lindner` - *Twitter* - **$277.84**
 - Aug 24 - [It’s the end of Ethereum.](https://coingeek.com/the-attack-continues-vitalik-buterin-wants-bch-community-to-ostracize-craig-wright/) - `Dan Taylor` - *Coingeek* - **$277.84**
-- Sep 3 - [The collapse of ETH is inevitable.] (https://techcrunch.com/2018/09/02/the-collapse-of-eth-is-inevitable/) - `Jeremy Rubin` - *Techcrunch* - **$290.20**
+- Sep 3 - [The collapse of ETH is inevitable.](https://techcrunch.com/2018/09/02/the-collapse-of-eth-is-inevitable/) - `Jeremy Rubin` - *Techcrunch* - **$290.20**
